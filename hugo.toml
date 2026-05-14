@@ -1,4 +1,11 @@
 baseURL = "https://zishuoblog.netlify.app"
 locale = "zh-cn"
-title = "我的博客"
+title = "zishuo的博客"
 theme = "paper"
+
+[params]
+  avatar = "/icon.jpg"
+  name = "zishuo"
+  bio = "欢迎访问我的博客！"
+  github = "zishuo2002"
+  email = "zzs15222867873@163.com"
