@@ -7,4 +7,5 @@ theme = "paper"
   avatar = "https://github.com/zishuo2002.png"
   name = "zishuo"
   bio = "欢迎访问我的博客！"
-  github = "zishuo2002"
+  github = "zishuo2003"
+  math = true
